@@ -1,1 +1,1 @@
-# Semantic-Segmentation-using-deep-learning
+# Image-Segmentation-using-deep-learning
